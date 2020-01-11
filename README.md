@@ -1,1 +1,1 @@
-I habe always enjoyed Phet HTML5 Sims. I plan on embedding these sims in a Quasar Framework Vue.js project. Cordova provides an awesome in app broswer plugin that works effortlessly on IOS and Android. I will add a link to the project asap.
+I have always enjoyed Phet HTML5 Sims. I plan on embedding these sims in a Quasar Framework Vue.js project. Cordova provides an awesome in app broswer plugin that works effortlessly on IOS and Android. I will add a link to the project asap.
